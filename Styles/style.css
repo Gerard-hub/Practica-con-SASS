@@ -1,0 +1,15 @@
+.body_container {
+  background-color: white;
+  color: black;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+}
+header h2 {
+  text-align: left;
+}
+header ul {
+  flex-direction: row;
+}/*# sourceMappingURL=style.css.map */

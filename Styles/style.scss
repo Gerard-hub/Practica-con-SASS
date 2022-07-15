@@ -1,0 +1,15 @@
+.body_container {
+    background-color: white;
+    color: black;
+} 
+
+header{
+    display: flex;
+    justify-content: space-between;
+    h2{
+        text-align: left;
+    }
+    ul{
+        flex-direction: row;
+    }
+}
